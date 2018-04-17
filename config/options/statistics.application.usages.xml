@@ -1,0 +1,51 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="Git">
+      <project id=".AndroidStudio3.0" values="config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.save.policy.STASH,config.warn.about.crlf.enabled,data.local.branches.count.1,config.repo.sync.NOT_DECIDED,config.force.push.enabled,data.remote.branches.count.1,data.remotes.in.project.1,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.ssh.enabled" collectionTime="1523956810162" />
+    </group>
+    <group name="vcs">
+      <project id=".AndroidStudio3.0" values="Git" collectionTime="1523956804566" />
+    </group>
+    <group name="frameworks">
+      <project id=".AndroidStudio3.0" values="java-gradle,android,android-gradle" collectionTime="1523956804610" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id=".AndroidStudio3.0" values="GradleRunConfiguration" collectionTime="1523956804692" />
+    </group>
+    <group name="run-configuration-type">
+      <project id=".AndroidStudio3.0" values="AndroidRunConfigurationType" collectionTime="1523956804692" />
+    </group>
+    <group name="module-language-level">
+      <project id=".AndroidStudio3.0" values="JDK_1_7" collectionTime="1523956810161" />
+    </group>
+    <group name="images.ide.background">
+      <project id=".AndroidStudio3.0" values="editor 0,frame 0" collectionTime="1523956810140" />
+    </group>
+    <group name="VCS Log 2">
+      <project id=".AndroidStudio3.0" values="data.git.root.count.1,data.users.count.1+,data.branches.count.1+,data.commit.count.1+" collectionTime="1523956810140" />
+    </group>
+    <group name="file-type">
+      <project id=".AndroidStudio3.0" values="Assembly file,JSON,ARCHIVE,Properties,IDEA_MODULE,PLAIN_TEXT,JAVA,Images,ProGuard File,XML,Groovy,UNKNOWN" collectionTime="1523956806901" />
+    </group>
+    <group name="module type">
+      <project id=".AndroidStudio3.0" values="JAVA_MODULE" collectionTime="1523956804610" />
+    </group>
+    <group name="vcs-options">
+      <project id=".AndroidStudio3.0" values="commit.before.check.code.cleanup.disabled,perform.add_remove.in.background.enabled,offer.move.partially.committed.disabled,commit.before.check.todo.enabled,commit.use.right.margin.enabled,commit.show.unversioned.enabled,perform.edit.in.background.enabled,commit.before.check.non.empty.comment.disabled,commit.before.optimize.imports.disabled,perform.commit.in.background.enabled,check.conflicts.in.background.disabled,commit.before.check.files.up.to.date.disabled,show.changes.preview.disabled,perform.update.in.background.enabled,changelist.preselect.existing.disabled,commit.before.check.code.smell.enabled,perform.checkout.in.background.enabled,offer.move.failed.committed.do_nothing_silently,perform.rollback.in.background.disabled,commit.before.reformat.project.disabled,changelist.make.new.active.disabled,offer.remove.empty.changelist.show_confirmation,commit.before.rearrange.disabled,commit.before.reformat.file.disabled,include.text.into.shelf.enabled,commit.clear.initial.comment.disabled" collectionTime="1523956804609" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="StripeButton[Android_Profiler].hidden" count="3" />
+      <entry feature="StripeButton[Android_Profiler].shown" count="2" />
+      <entry feature="StripeButton[Version_Control].hidden" count="1" />
+      <entry feature="StripeButton[Version_Control].shown" count="2" />
+      <entry feature="execute.AndroidRunConfigurationType.Run" count="9" />
+      <entry feature="execute.GradleRunConfiguration.Debug" count="1" />
+      <entry feature="ide.settings.Android_SDK" count="3" />
+      <entry feature="ide.settings.Version_Control" count="1" />
+      <entry feature="ideaapp.started" count="27" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="1" />
+    </counts>
+  </component>
+</application>

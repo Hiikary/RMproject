@@ -1,0 +1,16 @@
+<application>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="https://drive.google.com/drive/folders/0B7sX9KJ1FumxVDdhUHlDenhIa2M" />
+        <option value="https://drive.google.com/drive/folders/1uKdszmUfDdlBZuGn9MxkMJqI60mI7Fow" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="https://drive.google.com/drive/folders/0B7sX9KJ1FumxVDdhUHlDenhIa2M" />
+        <option value="https://drive.google.com/drive/folders/1uKdszmUfDdlBZuGn9MxkMJqI60mI7Fow" />
+      </list>
+    </option>
+  </component>
+</application>
