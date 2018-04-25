@@ -8,9 +8,9 @@
     <property name="Default.savedEditorTheme" value="_@user_Default" />
     <property name="SAVED_COMPANY_DOMAIN" value="anais.gervais.com" />
     <property name="file.chooser.recent.files" value="$USER_HOME$/.AndroidStudio3.0/app/src/main/java/com/gervais/anais/runningmanapplication&#10;C:/Users/PORTABLE/.AndroidStudio3.0&#10;C:/Documents and Settings" />
-    <property name="lastTip" value="27" />
+    <property name="lastTip" value="29" />
     <property name="newly.installed.api.level" value="26" />
-    <property name="file.gist.reindex.count" value="81" />
+    <property name="file.gist.reindex.count" value="104" />
     <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.PALETTE.LEFT" value="true" />
     <property name="ATTACHED_TOOL_WINDOW.Preview.PALETTE.LEFT" value="true" />
     <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.PALETTE.SPLIT" value="false" />
@@ -38,7 +38,7 @@
     <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.LEFT.UNSCALED.WIDTH" value="225" />
     <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.RIGHT.UNSCALED.WIDTH" value="225" />
     <property name="gradle.runner.text.console_str" value="false" />
-    <property name="studio.activity.count" value="0" />
-    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6911519" />
+    <property name="studio.activity.count" value="1" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.76460767" />
   </component>
 </application>

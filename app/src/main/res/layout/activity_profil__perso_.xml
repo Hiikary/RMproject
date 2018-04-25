@@ -6,23 +6,7 @@
     android:layout_height="match_parent"
     tools:context="com.gervais.anais.runningmanapplication.Profil_Perso_Activity">
 
-    <GridView
-        android:id="@+id/gridView"
-        android:layout_width="300dp"
-        android:layout_height="250dp"
-        android:layout_marginBottom="8dp"
-        android:layout_marginEnd="8dp"
-        android:layout_marginStart="8dp"
-        android:layout_marginTop="8dp"
-        android:visibility="visible"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.893" />
-
     <ImageView
-        android:contentDescription="image-profil"
         android:id="@+id/imageView2"
         android:layout_width="86dp"
         android:layout_height="89dp"
@@ -30,6 +14,7 @@
         android:layout_marginEnd="8dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="16dp"
+        android:contentDescription="image-profil"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.06"
@@ -54,5 +39,23 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.058" />
+
+    <Gallery
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/gallery"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        />
+
+    <ImageView
+        android:id="@+id/imageview"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="30dp"
+        android:src="@drawable/runningman"
+        />
 
 </android.support.constraint.ConstraintLayout>
