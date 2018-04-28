@@ -9,4 +9,5 @@
     <string name="title_activity_main2_test">Main2TestActivity</string>
 
     <string name="google_maps_key">AIzaSyAjbuN2caLzYT8tRuX5AT9pn0JZ7PXqhqI</string>
+    <string name="title_activity_accueil">AccueilActivity</string>
 </resources>
