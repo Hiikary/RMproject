@@ -40,22 +40,5 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.058" />
 
-    <Gallery
-        android:layout_width="fill_parent"
-        android:layout_height="fill_parent"
-        android:id="@+id/gallery"
-        android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true"
-        />
-
-    <ImageView
-        android:id="@+id/imageview"
-        android:layout_width="150dp"
-        android:layout_height="150dp"
-        android:layout_alignParentBottom="true"
-        android:layout_centerHorizontal="true"
-        android:layout_marginBottom="30dp"
-        android:src="@drawable/runningman"
-        />
 
 </android.support.constraint.ConstraintLayout>
